@@ -1,0 +1,4 @@
+Changes done in the Exisiting_CNN.ipynb file
+----- batch-size = 32,epochs=10, test_accuracy = 68.42105263157895
+----- batch-size = 64,epochs=10, test_accuracy = 70.17543859649122
+----- batch-size = 64,epochs=15, test_accuracy = 71.92982456140351
